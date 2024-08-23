@@ -26,6 +26,7 @@ addon | version | maintainers | summary
 [g2p_enumerator](g2p_enumerator/) | 17.0.1.2.0 |  | G2P Enumerator
 [g2p_profile_image](g2p_profile_image/) | 17.0.1.2.0 |  | OpenG2P Profile Image
 [g2p_registry_addl_info](g2p_registry_addl_info/) | 17.0.1.2.0 |  | G2P Registry: Additional Info
+[g2p_registry_addl_info_rest_api](g2p_registry_addl_info_rest_api/) | 17.0.1.2.0 |  | G2P Registry: Additional Info REST API
 [g2p_registry_base](g2p_registry_base/) | 17.0.1.2.0 |  | G2P Registry: Base
 [g2p_registry_documents](g2p_registry_documents/) | 17.0.1.2.0 |  | G2P Registry: Documents
 [g2p_registry_group](g2p_registry_group/) | 17.0.1.2.0 |  | G2P Registry: Groups
@@ -38,7 +39,6 @@ Unported addons
 ---------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[g2p_registry_addl_info_rest_api](g2p_registry_addl_info_rest_api/) | 17.0.1.2.0 (unported) |  | G2P Registry: Additional Info REST API
 [g2p_registry_rest_api_extension_demo](g2p_registry_rest_api_extension_demo/) | 17.0.1.2.0 (unported) |  | G2P Registry: Rest API Extension Demo
 
 [//]: # (end addons)
