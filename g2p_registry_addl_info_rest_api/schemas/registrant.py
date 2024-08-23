@@ -6,4 +6,4 @@ class RegistrantAddlInfoRequest(registrant.RegistrantInfoRequest, extends=regist
 
 
 class RegistrantInfoResponse(registrant.RegistrantInfoResponse, extends=registrant.RegistrantInfoResponse):
-    additional_g2p_info: str = ""
+    additional_g2p_info: str | None = ""
